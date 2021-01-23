@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:LeetCode"
+      name = "LeetCode">
+      <Group
+         location = "group:&#x9898;&#x5e93;"
+         name = "&#x9898;&#x5e93;">
+         <FileRef
+            location = "group:leetcode-0001.playground">
+         </FileRef>
+         <FileRef
+            location = "group:leetcode-0007.playground">
+         </FileRef>
+         <FileRef
+            location = "group:leetcode-0009.playground">
+         </FileRef>
+         <FileRef
+            location = "group:leetcode-0013.playground">
+         </FileRef>
+         <FileRef
+            location = "group:leetcode-0989.playground">
+         </FileRef>
+         <FileRef
+            location = "group:leetcode-1319.playground">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>
