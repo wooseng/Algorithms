@@ -29,6 +29,9 @@
             location = "group:leetcode-0021.playground">
          </FileRef>
          <FileRef
+            location = "group:leetcode-0026.playground">
+         </FileRef>
+         <FileRef
             location = "group:leetcode-0989.playground">
          </FileRef>
          <FileRef
